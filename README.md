@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Veda Shivayogi Ramagondanahalli
 
-🌟 AI enthusiast, Python wrangler, and web/animation ninja currently pursuing my **M.Tech in Artificial Intelligence** at **REVA University**.  
+🌟 AI enthusiast, Python wrangler, and web/animation currently pursuing my **M.Tech in Artificial Intelligence** at **REVA University**.  
 I love building **AI tools, interactive animations, and computer vision systems**.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=760&color=0A66C2&lines=M.Tech+AI+Student+at+REVA+University;Artificial+Intelligence+%7C+Computer+Vision;Python+%7C+Web+Development;Building+AI+Solutions+for+Real+World" />
