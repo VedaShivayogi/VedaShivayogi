@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<!-- ▓▓▓ ANIMATED HEADER ▓▓▓ -->
+<!-- ▓▓▓ ANIMATED HEADER (WORKING) ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=VEDA%20SHIVAYOGI&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%203D%20VISIONARY%20%E2%80%A2%20GENAI%20ARCHITECT&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- ▓▓▓ TYPING TERMINAL ▓▓▓ -->
+<!-- ▓▓▓ TYPING TERMINAL (WORKING) ▓▓▓ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=140&separator=%3C&lines=%5B+SYSTEM+BOOT%3A+AI+ENGINEER+ONLINE+%5D%3C%3E+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+GenAI%3C%3E+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP%3C%3E+Building+intelligence+with+Python+%26+LLMs" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ▓▓▓ 3D AI AVATAR ▓▓▓ -->
+<!-- ▓▓▓ 3D AI AVATAR (WORKING - GitHub Hosted) ▓▓▓ -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150" alt="3D AI Robot"/>
 
 <br/><br/>
@@ -39,20 +39,12 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            WELCOME SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h1>Welcome, Fellow Explorer 🚀</h1>
   <p>Hello, world! If you spot a bug in my code — or in my logic — feel free to open a PR. My models and my humor both need continuous training! 🧠✨ I'm not just learning AI — I'm living inside the latent space. Scroll down and see what I'm building. 🌌⚡</p>
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div>
 <h2>🧠 About Me</h2>
@@ -79,10 +71,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             KNOWLEDGE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🧬 My Knowledge Constellation</h2>
@@ -147,10 +135,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        NEURAL NETWORK VISUAL                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h2>🌌 Inside My Neural Network</h2>
 
@@ -167,10 +151,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              TECH ORBIT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h2>🛠️ 3D Tech Orbit</h2>
 
@@ -185,10 +165,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            PROJECTS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🚀 Signature Projects</h2>
@@ -242,14 +218,14 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              STATS                                      -->
+<!--            STATS (UPDATED TO WORKING DOMAINS)                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
 
   <br/><br/>
 
@@ -266,10 +242,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              SNAKE                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h2>🐍 A curious AI snake slithering through Veda's commits!</h2>
   <p><i>Watch Veda Shivayogi Ramagondanahalli's contribution trail come alive!</i> ✨</p>
@@ -280,10 +252,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🌐 Contact Me</h2>
@@ -314,10 +282,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          QUOTE                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h2>💭 Philosophy</h2>
   <blockquote>
@@ -327,10 +291,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h1>✨ Thanks for Reading ✨</h1>
