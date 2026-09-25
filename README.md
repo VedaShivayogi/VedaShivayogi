@@ -1,43 +1,86 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--      🌌 VEDA SHIVAYOGI · AI ENGINEER · 3D AI UNIVERSE 🌌         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=52&duration=1500&pause=300&color=00E5FF&background=0D1117&center=true&multiline=true&width=1800&height=420&separator=%3C&lines=%3E+whoami%3Cveda%40ai%3A~%24+M.Tech+AI+%40+REVA+University%3C%3E+building+intelligence+with+Python+%26+LLMs%3C%3E+if+(curiosity)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Terminal Typing SVG" />
-</a>
-
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--        🌌  VEDA SHIVAYOGI · AI ENGINEER · 3D AI UNIVERSE  🌌            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-    <h1>Welcome, Fellow Explorer 🚀</h1>
-    <p>Hello, world! If you spot a bug in my code — or in my logic — feel free to open a PR. My models and my humor both need continuous training! 🧠✨ I'm not just learning AI — I'm living inside the latent space. Scroll down and see what I'm building. 🌌⚡</p>
+
+<!-- ▓▓▓ ANIMATED HEADER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=VEDA%20SHIVAYOGI&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%203D%20VISIONARY%20%E2%80%A2%20GENAI%20ARCHITECT&descAlignY=62&descSize=20" width="100%"/>
+
+<!-- ▓▓▓ TYPING TERMINAL ▓▓▓ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=140&separator=%3C&lines=%5B+SYSTEM+BOOT%3A+AI+ENGINEER+ONLINE+%5D%3C%3E+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+GenAI%3C%3E+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP%3C%3E+Building+intelligence+with+Python+%26+LLMs" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ▓▓▓ 3D AI AVATAR ▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150" alt="3D AI Robot"/>
+
+<br/><br/>
+
+<!-- ▓▓▓ CONTACT BADGES ▓▓▓ -->
+<a href="https://www.linkedin.com/in/vedasram/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/VedaShivayogi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="mailto:vedaram2002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/VedaShivayogi">
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=VedaShivayogi&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/VedaShivayogi?style=for-the-badge&logo=github&color=6A11CB&labelColor=0D1117&label=FOLLOWERS"/>
+
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            WELCOME SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h1>Welcome, Fellow Explorer 🚀</h1>
+  <p>Hello, world! If you spot a bug in my code — or in my logic — feel free to open a PR. My models and my humor both need continuous training! 🧠✨ I'm not just learning AI — I'm living inside the latent space. Scroll down and see what I'm building. 🌌⚡</p>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div>
-<h2>About Me</h2>
+<h2>🧠 About Me</h2>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180" align="right" alt="AI Robot"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16ac2c.gif" width="180" align="right" alt="3D AI Core"/>
   </div>
 
 <dl>
-  <dt>Name:</dt>
+  <dt><b>Name:</b></dt>
   <dd>- Veda Shivayogi Ramagondanahalli</dd>
-  <dt>Pronouns:</dt>
+  <dt><b>Pronouns:</b></dt>
   <dd>- she/her</dd>
-  <dt>Role:</dt>
+  <dt><b>Role:</b></dt>
   <dd>- M.Tech AI Student · Aspiring AI/ML Engineer</dd>
-  <dt>Loves:</dt>
+  <dt><b>Loves:</b></dt>
   <dd>- LLMs, Neural Networks, 3D Animation, Chai ☕</dd>
-  <dt>Hobbies:</dt>
+  <dt><b>Hobbies:</b></dt>
   <dd>- Building AI tools, Blender, Exploring GenAI</dd>
-  <dt>Mission:</dt>
+  <dt><b>Mission:</b></dt>
   <dd>- Turn data into decisions · Ideas into intelligence</dd>
 </dl>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             KNOWLEDGE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🧬 My Knowledge Constellation</h2>
@@ -102,6 +145,49 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        NEURAL NETWORK VISUAL                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🌌 Inside My Neural Network</h2>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc96b1bfaa.gif" width="80"/>
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420" alt="3D Neural Network"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH ORBIT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🛠️ 3D Tech Orbit</h2>
+
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,html,css,js,mysql,git,vscode,blender&theme=dark&perline=6" />
+
+  <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16ac2c.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4cbc-8f0d-8c928aafac96.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            PROJECTS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <h2>🚀 Signature Projects</h2>
 
@@ -153,74 +239,22 @@
 
 ---
 
-<div align="center">
-  <h2>📊 Stats</h2>
-  <div>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&border_color=00E5FF" alt="Top Languages">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://streak-stats.demolab.com/?user=VedaShivayogi&theme=dark&background=0D1117&stroke=00E5FF&ring=6A11CB&fire=FF4785&currStreakLabel=FFFFFF&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak Stats">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF&border_color=00E5FF&show=reviews" alt="GitHub Stats">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://github-profile-trophy.vercel.app/?username=VedaShivayogi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-    </a>
-  </div>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          ROADMAP                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
----
+## 🛰️ Mission Roadmap
 
-<div align="center">
-  <h1>🐍 A curious AI snake slithering through my commits!</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <h2>🌐 Contact Me</h2>
-
-  <a href="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="140" alt="Wave"/>
-  </a>
-
-  <p>
-    <a href="https://www.linkedin.com/in/vedasram/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:vedaram2002@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/VedaShivayogi">
-      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h1>✨ Thanks for Reading ✨</h1>
-  <img src="https://typograssy.deno.dev/api?text=Dream%20Build%20Deploy%20Repeat&l0=none&l1=00E5FF&l2=6A11CB&l3=FF4785&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
-  <br/>
-  <img src="https://moe-counter.glitch.me/get/@VedaShivayogi?theme=gelbooru">
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        Made with 💙 by Veda Shivayogi · AI Universe 🌌           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A66C2','lineColor':'#00E5FF','textColor':'#ffffff','fontSize':'16px'}}}%%
+timeline
+    title AI Engineering Odyssey
+    2024 : M.Tech AI @ REVA University
+         : Deep Learning Foundations
+         : Computer Vision Projects
+    2025 : LLMs & RAG Systems
+         : Agentic AI Workflows
+         : Generative AI Apps
+    2026 : Production-Grade AI Systems
+         : MLOps & Deployment
+         : AI Engineer @ Top Tech
