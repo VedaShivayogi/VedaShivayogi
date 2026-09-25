@@ -7,7 +7,7 @@
 <!-- ▓▓▓ ANIMATED HEADER (WORKING) ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=VEDA%20SHIVAYOGI&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%203D%20VISIONARY%20%E2%80%A2%20GENAI%20ARCHITECT&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- ▓▓▓ TYPING TERMINAL (WORKING) ▓▓▓ -->
+<!-- ▓▓▓ TYPING TERMINAL (WORKING - NEW DOMAIN) ▓▓▓ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=140&separator=%3C&lines=%5B+SYSTEM+BOOT%3A+AI+ENGINEER+ONLINE+%5D%3C%3E+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+GenAI%3C%3E+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP%3C%3E+Building+intelligence+with+Python+%26+LLMs" alt="Typing SVG" />
 </a>
