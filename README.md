@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E5FF&height=220&section=header&text=Veda%20Shivayogi%20Ramagondanahalli&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%26%20LLM%20Systems&descAlignY=60&descSize=16" width="100%"/>
+### 🌌 VEDA SHIVAYOGI RAMAGONDANAHALLI
 
-### `while (True): learn("AI", "ML", "LLMs") · build("RAG", "Agentic AI") · keep_going()`
+**AI · ML · Deep Learning · GenAI · LLM Systems**
+
+`while (True): learn("AI", "ML", "LLMs") · build("RAG", "Agentic AI") · keep_going()`
 
 <br/>
 
@@ -10,11 +12,6 @@
 <a href="https://github.com/VedaShivayogi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://vedashivayogi.github.io/portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:vedaram2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VedaShivayogi&style=for-the-badge&color=00E5FF&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/VedaShivayogi?style=for-the-badge&logo=github&color=6A11CB&labelColor=0D1117&label=FOLLOWERS"/>
 
 </div>
 
@@ -78,7 +75,17 @@
   </p>
 
   <p><b>Languages, Tools & Deployment</b></p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,flask,git,vscode,blender&theme=dark&perline=9" />
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  </p>
 </div>
 
 ---
@@ -143,20 +150,12 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
 <div align="center">
   <h2>📊 Stats</h2>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
 
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com/?user=VedaShivayogi&theme=radical&background=0D1117&stroke=00E5FF&ring=6A11CB&fire=FF4785&currStreakLabel=FFFFFF" width="70%"/>
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=VedaShivayogi&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedaShivayogi&theme=react-dark&bg_color=0D1117&color=00E5FF&line=6A11CB&point=FF4785&hide_border=true" width="100%"/>
 
 </div>
 
@@ -195,22 +194,6 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
       <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
     </a>
   </p>
-
-  <br/>
-
-  <a href="https://vedashivayogi.github.io/portfolio/index.html">
-    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-Click_Here-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>💭 Philosophy</h2>
-  <blockquote>
-    <i>"The best AI isn't the one that replaces humans —<br/>it's the one that amplifies human imagination."</i>
-  </blockquote>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
@@ -222,19 +205,9 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+Veda%27s+AI+universe!+%F0%9F%8C%8C;Let%27s+build+intelligence+together+%F0%9F%A4%9D;Star+%E2%AD%90+if+you+like+what+you+see!" alt="Footer Typing"/>
-  </a>
-
-  <br/><br/>
-
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E5FF&height=140&section=footer&text=Engineered%20with%20%F0%9F%92%99%20by%20Veda%20Shivayogi%20Ramagondanahalli&fontSize=18&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
   <br/>
 
