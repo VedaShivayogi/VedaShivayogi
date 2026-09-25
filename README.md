@@ -1,126 +1,184 @@
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=800&pause=100&color=00E5FF&background=000000&center=true&multiline=true&width=1100&height=380&separator=%3C&lines=+%3C+%3C+C%3A%5CUsers%5Cveda%5Cprofile.py++++++%E2%8E%AF+%E2%9D%90+%E2%A4%AC%3C+%3Cwhile+(True)%3A%3C++++learn(%22AI%22%2C+%22ML%22%2C+%22LLMs%22)%3C++++build(%22RAG%22%2C+%22Agentic+AI%22)%3C++++keep_going()%3C%7D" alt="Typing SVG" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E5FF&height=220&section=header&text=Veda%20Shivayogi%20Ramagondanahalli&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%26%20LLM%20Systems&descAlignY=60&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=760&lines=M.Tech+AI+Student+%40+REVA+University;Building+with+LLMs+%2B+RAG+%2B+Agentic+AI;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+Data+into+Intelligent+Systems" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vedasram/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/VedaShivayogi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://vedashivayogi.github.io/portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:vedaram2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## 🧠 About Me
-
-I'm an AI enthusiast and **M.Tech Artificial Intelligence** student at **REVA University**, passionate about turning research into working, real-world systems. My focus sits at the intersection of **Generative AI, LLMs, RAG, and Agentic AI**, with a strong foundation in **Machine Learning, Deep Learning, Computer Vision, and NLP**.
-
-- 🔭 Currently exploring **Agentic AI workflows** and **Retrieval-Augmented Generation**
-- 🎯 Career goal: AI / Computer Vision / GenAI Engineer
-- 🎨 I like blending AI with animation and interactive web experiences
-- ⚡ Fun fact: I enjoy combining AI + Blender to build expressive, intelligent visuals
-
-<br/>
-
-## 🧬 Skills
-
-**Generative AI & LLMs**
-<br/>
-<img src="https://img.shields.io/badge/Gen_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00B4D8?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-FF4785?style=flat-square&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-**AI / ML / Deep Learning**
-<br/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0A66C2?style=flat-square&logo=brainly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-
-**Computer Vision & NLP**
-<br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-
-**Languages, Tools & Deployment**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
-
-<br/>
-
-## 🚀 What I Build
-
-I design **chatbots, RAG pipelines, facial animation systems, and image-processing applications** — combining intelligent backends with clean, interactive front ends.
-
-| Project | Focus | Stack |
-|---|---|---|
-| RAG-Powered AI Assistant | Grounded LLM chatbot with source citations | LangChain, FAISS, Streamlit |
-| Agentic AI Workflow Engine | Agents that plan, use tools, self-correct | LangGraph, LlamaIndex, Python |
-| Facial Animation System | Landmark detection → 3D expression mapping | OpenCV, MediaPipe, Blender |
-| NLP Intelligence Toolkit | Sentiment, NER, summarization API | spaCy, Transformers, Flask |
-
-<br/>
-
-## 📊 GitHub Activity
+---
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=2C5364&text_color=666666"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=666666"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=VedaShivayogi&theme=transparent&hide_border=true&stroke=2C5364&ring=00B4D8&fire=FF4785" width="70%"/>
-
+    <h1>Welcome, Fellow Explorer!</h1>
+    <p>Hello, world! If you find a bug in my code — or my logic — feel free to open a pull request. My models and my humor both need continuous training. 🧠✨ Currently living somewhere between Jupyter notebooks and the latent space.</p>
 </div>
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+<div>
+<h2>About Me</h2>
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="180">
+  </div>
+<dl>
+  <dt>Name:</dt>
+  <dd>- Veda Shivayogi Ramagondanahalli</dd>
+  <dt>Pronouns:</dt>
+  <dd>- she/her</dd>
+  <dt>Currently:</dt>
+  <dd>- M.Tech AI Student @ REVA University</dd>
+  <dt>Loves:</dt>
+  <dd>- LLMs, Neural Networks, Blender, Chai ☕</dd>
+  <dt>Hobbies:</dt>
+  <dd>- Building AI tools, 3D animation, exploring GenAI</dd>
+  <dt>Goal:</dt>
+  <dd>- AI / Computer Vision / GenAI Engineer</dd>
+</dl>
+</div>
+
+---
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake.svg">
-  <img alt="A curious AI snake slithering through Veda's commits" src="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake-dark.svg">
-</picture>
-<p><i>A curious AI snake slithering through my commits 🐍✨</i></p>
+  <h2>Knowledge</h2>
+
+  <p>
+    <!-- Foundations -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </p>
+  <p>
+    <!-- AI / ML / DL -->
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-0A66C2?style=for-the-badge&logo=brainly&logoColor=white" alt="AI"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
+    <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  </p>
+  <p>
+    <!-- GenAI / LLM / RAG / Agentic -->
+    <img src="https://img.shields.io/badge/Gen_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
+    <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+    <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+    <img src="https://img.shields.io/badge/Agentic_AI-FF4785?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </p>
+  <p>
+    <!-- CV / NLP -->
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
+    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  </p>
+  <p>
+    <!-- Web / Tools -->
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </p>
 </div>
 
-> Note: this animation only renders once the [snake workflow](https://github.com/Platane/snk) is set up on your `VedaShivayogi/VedaShivayogi` repo, running on a schedule via GitHub Actions.
-
-<br/>
-
-## 📫 Contact Me
-
-<p align="center">
-<a href="mailto:vedaram2002@gmail.com"><img src="https://img.shields.io/badge/Email-vedaram2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vedasram/"><img src="https://img.shields.io/badge/LinkedIn-vedasram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/VedaShivayogi"><img src="https://img.shields.io/badge/GitHub-VedaShivayogi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://vedashivayogi.github.io/portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-Visit-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+---
 
 <div align="center">
-
-*"The best AI isn't the one that replaces humans — it's the one that amplifies human imagination."*
-
+  <h2>Projects</h2>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0F2027&height=100&section=footer" width="100%"/>
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 RAG-Powered AI Assistant
+Grounded LLM chatbot with real-time retrieval and source citations.
+<br/>`LangChain` `FAISS` `OpenAI` `Streamlit`
+
+</td>
+<td width="50%" align="center">
+
+### 🧩 Agentic AI Workflow Engine
+Autonomous agents that plan, reason & execute across tools.
+<br/>`LangGraph` `LlamaIndex` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 👁️ Facial Animation System
+Real-time landmark detection mapped to 3D expression synthesis.
+<br/>`OpenCV` `MediaPipe` `Blender`
+
+</td>
+<td width="50%" align="center">
+
+### 🧠 NLP Intelligence Toolkit
+Sentiment, NER & summarization pipeline exposed as a REST API.
+<br/>`spaCy` `Transformers` `Flask`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>Stats</h2>
+  <div>
+    <a href="https://github.com/VedaShivayogi">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=dark" alt="Top Languages">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/VedaShivayogi">
+      <img src="https://streak-stats.demolab.com/?user=VedaShivayogi&theme=dark&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak Stats">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/VedaShivayogi">
+      <img src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=dark&show=reviews" alt="GitHub Stats">
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h1>A curious AI snake slithering through my commits!</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+  <p><i>Needs the <a href="https://github.com/Platane/snk">snk</a> GitHub Action set up on your VedaShivayogi/VedaShivayogi repo to render.</i></p>
+</div>
+
+---
+
+<div align="center">
+  <h2>Contact Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/vedasram/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/VedaShivayogi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:vedaram2002@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://vedashivayogi.github.io/portfolio/index.html">
+      <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h1>Thanks for Reading</h1>
+  <img src="https://typograssy.deno.dev/api?text=Dream%20Build%20Deploy&l0=none&l1=00E5FF&l2=6A11CB&l3=FF4785&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+  <img src="https://moe-counter.glitch.me/get/@VedaShivayogi?theme=gelbooru">
+</div>
