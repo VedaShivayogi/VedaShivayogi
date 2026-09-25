@@ -1,3 +1,10 @@
+# 🌌 Complete Full README — All Working Images
+
+Copy the **entire code block below** and paste it into your `README.md` file in the `VedaShivayogi/VedaShivayogi` repository. ✅
+
+---
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E5FF&height=220&section=header&text=Veda%20Shivayogi%20Ramagondanahalli&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%26%20LLM%20Systems&descAlignY=60&descSize=16" width="100%"/>
@@ -11,12 +18,17 @@
 <a href="https://vedashivayogi.github.io/portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:vedaram2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VedaShivayogi&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/VedaShivayogi?style=for-the-badge&logo=github&color=6A11CB&labelColor=0D1117&label=FOLLOWERS"/>
+
 </div>
 
 ---
 
 <div>
-<h2>About Me</h2>
+<h2>🧠 About Me</h2>
   <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="180">
   </div>
@@ -39,7 +51,7 @@
 ---
 
 <div align="center">
-  <h2>Knowledge</h2>
+  <h2>🧬 Knowledge</h2>
 
   <p><b>Generative AI · LLM · RAG · Agentic AI</b></p>
   <p>
@@ -48,7 +60,9 @@
     <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
     <img src="https://img.shields.io/badge/Agentic_AI-FF4785?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI"/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/LlamaIndex-7B2FF7?style=for-the-badge&logo=meta&logoColor=white" alt="LlamaIndex"/>
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/Vector_DB-4B8BBE?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
   </p>
 
   <p><b>AI · Machine Learning · Deep Learning</b></p>
@@ -57,6 +71,7 @@
     <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
     <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </p>
 
@@ -66,6 +81,7 @@
     <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
     <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
     <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+    <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
   </p>
 
   <p><b>Languages, Tools & Deployment</b></p>
@@ -75,7 +91,23 @@
 ---
 
 <div align="center">
-  <h2>Projects</h2>
+  <h2>🌌 Inside My Neural Network</h2>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc96b1bfaa.gif" width="80"/>
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="3D Neural Network"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Projects</h2>
 </div>
 
 <table>
@@ -116,10 +148,22 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
 ---
 
 <div align="center">
-  <h2>Stats</h2>
+  <h2>📊 Stats</h2>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VedaShivayogi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=6A11CB&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedaShivayogi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=VedaShivayogi&theme=radical&background=0D1117&stroke=00E5FF&ring=6A11CB&fire=FF4785&currStreakLabel=FFFFFF" width="70%"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=VedaShivayogi&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedaShivayogi&theme=react-dark&bg_color=0D1117&color=00E5FF&line=6A11CB&point=FF4785&hide_border=true" width="100%"/>
 
 </div>
 
@@ -132,13 +176,15 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/VedaShivayogi/VedaShivayogi/output/github-contribution-grid-snake-dark.svg">
   </picture>
-  <p><i>Renders once the <a href="https://github.com/Platane/snk">snk</a> GitHub Action is set up in your VedaShivayogi/VedaShivayogi repo — ask and I'll write that workflow file.</i></p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>Contact Me</h2>
+  <h2>🌐 Contact Me</h2>
+
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="130" alt="Wave"/>
+
   <p>
     <a href="https://www.linkedin.com/in/vedasram/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -153,11 +199,134 @@ Sentiment, NER & summarization pipeline exposed as a REST API.
       <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
     </a>
   </p>
+
+  <br/>
+
+  <a href="https://vedashivayogi.github.io/portfolio/index.html">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-Click_Here-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>Thanks for Reading ✨</h2>
-  <img src="https://count.getloli.com/get/@VedaShivayogi?theme=gelbooru" alt="visitor count"/>
+  <h2>💭 Philosophy</h2>
+  <blockquote>
+    <i>"The best AI isn't the one that replaces humans —<br/>it's the one that amplifies human imagination."</i>
+  </blockquote>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
+
+---
+
+<div align="center">
+  <h2>✨ Thanks for Reading ✨</h2>
+
+  <img src="https://typograssy.deno.dev/api?text=Dream%20Build%20Deploy%20Repeat&l0=none&l1=00E5FF&l2=6A11CB&l3=FF4785&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+Veda%27s+AI+universe!+%F0%9F%8C%8C;Let%27s+build+intelligence+together+%F0%9F%A4%9D;Star+%E2%AD%90+if+you+like+what+you+see!" alt="Footer Typing"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E5FF&height=140&section=footer&text=Engineered%20with%20%F0%9F%92%99%20by%20Veda%20Shivayogi%20Ramagondanahalli&fontSize=18&fontColor=FFFFFF&animation=twinkling" width="100%"/>
+
+  <br/>
+
+  <img src="https://count.getloli.com/get/@VedaShivayogi?theme=gelbooru" alt="visitor count"/>
+
+</div>
+```
+
+---
+
+## 🐍 Snake Animation — One-Time Setup (Required)
+
+The snake **won't appear** until you do this. Follow exactly:
+
+### Step 1: Create the workflow file
+In your `VedaShivayogi/VedaShivayogi` repository, create this file:
+
+**Path:** `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: VedaShivayogi
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### Step 2: Enable write permissions (MOST IMPORTANT)
+- Go to your repo → **Settings**
+- Left sidebar → **Actions** → **General**
+- Scroll to **Workflow permissions**
+- Select **"Read and write permissions"**
+- Click **Save**
+
+### Step 3: Run the workflow
+- Go to **Actions** tab
+- Select **Generate Snake** on the left
+- Click **Run workflow** → **Run workflow**
+- Wait ~1 minute
+- Refresh your GitHub profile → snake appears 🐍✨
+
+---
+
+## 📋 Complete Checklist
+
+| # | Task | Status |
+|---|------|:------:|
+| 1 | Copy the big code block above | ⬜ |
+| 2 | Paste into `README.md` at `VedaShivayogi/VedaShivayogi` | ⬜ |
+| 3 | Commit the README | ⬜ |
+| 4 | Create `.github/workflows/snake.yml` | ⬜ |
+| 5 | Enable "Read and write permissions" in Actions settings | ⬜ |
+| 6 | Run the snake workflow from Actions tab | ⬜ |
+| 7 | Replace project placeholders with real repo links | ⬜ |
+| 8 | Pin your best 4–6 repos | ⬜ |
+
+---
+
+## 🎯 Your Links
+
+| 🔗 | Link |
+|----|------|
+| 🌐 **Portfolio** | [vedashivayogi.github.io/portfolio](https://vedashivayogi.github.io/portfolio/index.html) |
+| 💼 **LinkedIn** | [linkedin.com/in/vedasram](https://www.linkedin.com/in/vedasram/) |
+| 🐙 **GitHub** | [github.com/VedaShivayogi](https://github.com/VedaShivayogi) |
+| 📧 **Email** | vedaram2002@gmail.com |
+
+---
+
+**Copy → Paste → Commit → Run snake workflow → Your profile is live! 🌌🚀**
