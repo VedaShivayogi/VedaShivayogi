@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🌌 VEDA SHIVAYOGI RAMAGONDANAHALLI
+###  VEDA SHIVAYOGI RAMAGONDANAHALLI
 
 **AI · ML · Deep Learning · GenAI · LLM Systems**
 
